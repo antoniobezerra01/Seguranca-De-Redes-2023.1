@@ -71,9 +71,13 @@ Somando no total temos = 6 bytes afetados.
 
 #### Resposta:
 
+
 Rodada 0 (Round 0):
 
-Após a adição da chave da rodada (Add round key): 1100 1000 0101 0000
+Após a adição da chave da rodada (Add round key): 1100 1000 0101 0000 
+
+
+
 Rodada 1 (Round 1):
 
 Após a substituição de nibbles (Substitute nibbles): 1100 0110 0001 1001
@@ -84,6 +88,8 @@ Após a mistura de colunas (Mix columns): 1110 1100 1010 0010
 
 Após a adição da chave da rodada (Add round key): 1110 1100 1010 0010
 
+
+
 Rodada 2 (Round 2):
 
 Após a substituição de nibbles: 1111 0000 1000 0101
@@ -91,6 +97,7 @@ Após a substituição de nibbles: 1111 0000 1000 0101
 Após o deslocamento de linhas: 0111 0001 0110 1001
 
 Após a adição da chave da rodada: 0000 0111 0011 1000
+
 
 Portanto, o texto cifrado após duas rodadas é 0000 0111 0011 1000, que corresponde ao que os designers do S-AES obtiveram.
 
