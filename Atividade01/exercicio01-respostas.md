@@ -63,23 +63,23 @@ Irreversíveis: não permitem a reversão do processo, exemplificado por algorit
 
 #### Resposta:
 
-Confidencialidade:
+- Confidencialidade:
 
-Manter em sigilo dados sensíveis como saldo, informações do usuário, dados do cartão e senha.
+    Manter em sigilo dados sensíveis como saldo, informações do usuário, dados do cartão e senha.
 
-Então o grau de importância é alto, já que deve restringir acesso conforme a LGPD para evitar danos financeiros.
+    Então o grau de importância é alto, já que deve restringir acesso conforme a LGPD para evitar danos financeiros.
 
-Integridade:
+- Integridade:
 
-Prevenir alterações não autorizadas no saldo e no histórico de transações.
+    Prevenir alterações não autorizadas no saldo e no histórico de transações.
 
-Contém alto grau de importância, pois é necessário garantir que as transações financeiras sejam seguras contra ataques e manipulações.
+    Contém alto grau de importância, pois é necessário garantir que as transações financeiras sejam seguras contra ataques e manipulações.
 
-Disponibilidade:
+- Disponibilidade:
 
-Possibilitar acesso rápido e confiável à conta do usuário.
+    Possibilitar acesso rápido e confiável à conta do usuário.
 
-Possui alto grau de importância, pois deve assegurar velocidade moderada/alta e confiabilidade na autenticação e apresentação de dados.
+    Possui alto grau de importância, pois deve assegurar velocidade moderada/alta e confiabilidade na autenticação e apresentação de dados.
 
 ## 7.Para responder as letras abaixo, por favor, consulte o livro-texto da disciplina:
 ### (a) Desenhe uma matriz similar ao Quadro 1.4 que mostre o relacionamento entre serviços de segurança e ataques.
